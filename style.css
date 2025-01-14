@@ -1,0 +1,8 @@
+#home {
+    background-image:linear-gradient(rgba (9, 5, 54, 0.3), rgba (5, 4, 46, 0.7))
+    ,url("images/University.jpg");
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+    
+    }
